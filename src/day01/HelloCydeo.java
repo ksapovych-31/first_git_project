@@ -5,6 +5,6 @@ public class HelloCydeo {
 
         System.out.println("Hello Cydeo");
 
-        // some changes are aded.
+        // some changes are added.
     }
 }
